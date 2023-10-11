@@ -1,0 +1,10 @@
+Doctor.create(name:"Dr.A",email:"a@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.b",email:"b@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.c",email:"c@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.d",email:"d@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.e",email:"e@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.f",email:"f@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.g",email:"g@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.h",email:"h@gamil.com",mobile:12345)
+Doctor.create(name:"Dr.i",email:"i@gamil.com",mobile:12345)
+
